@@ -36,12 +36,29 @@ class Home extends StatelessWidget {
                 ),
                 const SizedBox(height: 20),
                 const Text('Akeem William Tobi',
+                    textAlign: TextAlign.center,
                     style:
                         TextStyle(fontSize: 30, fontWeight: FontWeight.bold)),
-                const SizedBox(height: 10),
+                // const Text('@techbroke',
+                //     style:
+                //         TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
+                const SizedBox(height: 5),
                 const Text('Mobile App Developer',
                     style:
                         TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
+                const SizedBox(height: 5),
+                const Center(
+                  child: Padding(
+                    padding: EdgeInsets.only(left: 10.0, right: 10.0),
+                    child: Text(
+                        'Tobi has 1 year and 6 months experience in mobile app '
+                        'development, he has worked on several projects and has a '
+                        'good understanding of the mobile app development process.',
+                        textAlign: TextAlign.center,
+                        style: TextStyle(
+                            fontSize: 16, fontWeight: FontWeight.bold)),
+                  ),
+                ),
                 const SizedBox(height: 70),
                 const Text('https://github.com/Williamtobs',
                     style: TextStyle(
