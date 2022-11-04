@@ -13,5 +13,11 @@ The design inspiration is gotten from https://www.uplabs.com/posts/portfolio-app
 ## Libraries
 I did not use any external library.
 
+## Challenges
+The only challenge i faced was the time frame, had to jungle between work task and completing this.
 
+## Apk link
+https://drive.google.com/file/d/1KjhJFme6HpXZB_yTJ--RX3vlyU7Z1gl2/view?usp=sharing
 
+## Appetize.io Link
+https://appetize.io/app/45set32mpzhzra4ch3trr7igzu?device=pixel4&osVersion=12.0&scale=75
